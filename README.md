@@ -1,1 +1,3 @@
-##Proyecto Final
+# Análisis de Percepciones y Uso de ChatGPT en Estudiantes de Educación Superior
+
+Este proyecto de investigación analiza las percepciones y tendencias de uso de ChatGPT entre estudiantes de educación superior, utilizando datos recolectados a través de un cuestionario global. El análisis se realizó en R, incluyendo estadísticas descriptivas, pruebas de hipótesis y regresión logística ordinal. Los hallazgos revelan diferencias significativas en el uso según el género, una preferencia por la educación híbrida y un uso predominante en tareas académicas y técnicas. El código y los datos están disponibles para su revisión y replicación.
